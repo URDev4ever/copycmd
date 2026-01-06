@@ -1,6 +1,9 @@
 <h1 align="center"> 'copy' command </h1>
-
-<h3 align="center">A very simple, safe, and cross-platform command-line tool to copy text **from files or stdin** directly to your system clipboard.</h3>
+<p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p>
+<h3 align="center">A very simple, safe, and cross-platform command-line tool to copy text from files or stdin directly to your system clipboard.</h3>
 
 `copycmd` is designed to behave like a real UNIX utility:
 
