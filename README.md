@@ -32,7 +32,8 @@
 copycmd/
 ├── copy_command.py   # Main CLI tool
 ├── installer.py      # Installer script
-└── README.md
+├── README.md
+└── README_ES.md
 ```
 
 ---
