@@ -1,6 +1,6 @@
 <h1 align="center"> 'copy' command </h1>
 <p align="center">
-  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇺🇸 <b>English</b> |
   🇪🇸 <a href="README_ES.md">Español</a>
 </p>
 <h3 align="center">A very simple, safe, and cross-platform command-line tool to copy text from files or stdin directly to your system clipboard.</h3>
