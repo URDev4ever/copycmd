@@ -1,7 +1,7 @@
 <h1 align="center"> comando 'copy' </h1>
 <p align="center">
   🇺🇸 <a href="README.md"><b>English</b></a> |
-  🇪🇸 <a href="README_ES.md">Español</a>
+  🇪🇸 <b>Español</b>
 </p>
 <h3 align="center">Una herramienta de línea de comandos muy simple, segura y multiplataforma para copiar texto desde archivos o stdin directamente al portapapeles del sistema.</h3>
 
